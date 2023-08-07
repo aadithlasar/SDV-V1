@@ -37,7 +37,7 @@ Before using the Student Database Viewer, ensure you have the following:
 
 1. Clone this repository to your local machine or web server.
    ```
-   git clone https://github.com/your-username/student-database-viewer.git
+   git clone https://github.com/aadithlasar/SDV-V1.git
    ```
 
 2. Import the `database.sql` file into your MySQL database to create the required table and entries.
